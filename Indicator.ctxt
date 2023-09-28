@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Indicator
+comment1.params=finalAngle\ finalX\ finalY
+comment1.target=Indicator(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int[]\ convertLocation()
+comment4.params=
+comment4.target=void\ updateLocation()
+numComments=5

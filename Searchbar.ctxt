@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Searchbar
+comment1.params=
+comment1.target=Searchbar()
+comment2.params=
+comment2.target=void\ clearSearch()
+comment3.params=letter
+comment3.target=void\ updateSearch(java.lang.String)
+numComments=4

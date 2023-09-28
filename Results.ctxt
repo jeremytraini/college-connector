@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Results
+comment1.params=index\ resultNum\ image\ node\ nodeName
+comment1.target=Results(int,\ int,\ greenfoot.GreenfootImage,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

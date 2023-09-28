@@ -1,0 +1,231 @@
+312,Stokesleigh,Stokesleigh
+65,Bunker,C-Block
+342,C1,C-Block
+154,C3,C-Block
+341,C4,C-Block
+338,C5,C-Block
+337,C6,C-Block
+334,C7,C-Block
+335,C10,C-Block
+339,C11,C-Block
+340,C12,C-Block
+194,C13,C-Block
+328,C14,C-Block
+65,Sports Office,C-Block
+209,ICT Manager's Office,C-Block
+215,Lecture Theatre,C-Block
+65,Barker Bunker (Girls' Fitness),C-Block
+200,History Office,C-Block
+200,Geography Office,C-Block
+62,Deans Office,C-Block
+213,Head of Middle School Office,C-Block
+213,HoBC Office,C-Block
+14,Library,Library
+17,Front Desk Loans,Library
+14,Library Theatre,Library
+17,Blended Learning Room,Library
+17,Digital Learning Office,Library
+17,Library Lecture Theatre,Library
+17,iCentral,Library
+309,Chapel,Chapel
+84,K23,Chapel
+144,D1,Design Centre
+144,D2,Design Centre
+144,D3,Design Centre
+144,D5,Design Centre
+144,D6,Design Centre
+144,D7,Design Centre
+144,D8,Design Centre
+144,D9,Design Centre
+144,D10,Design Centre
+144,D11,Design Centre
+143,D13,Design Centre
+143,D14,Design Centre
+143,D15,Design Centre
+143,D16,Design Centre
+143,D17,Design Centre
+143,D18,Design Centre
+143,D19,Design Centre
+143,D20,Design Centre
+145,Demountable 1,Design Centre
+145,Demountable 2,Design Centre
+148,Demountable 3,Design Centre
+148,Demountable 4,Design Centre
+142,Design Centre,Design Centre
+143,Visual Arts Office,Design Centre
+278,Cadets Office,Marks Pavillion
+157,No. 1 Oval,Marks Pavillion
+106,Long Room,Marks Pavillion
+155,Seaberg Theatre,Marks Pavillion
+175,Gamson Commerce Centre,Gamson Centre
+177,G1,Gamson Centre
+178,G2,Gamson Centre
+176,G3,Gamson Centre
+179,G4,Gamson Centre
+180,G5,Gamson Centre
+180,G6,Gamson Centre
+176,G7,Gamson Centre
+346,G8,Gamson Centre
+180,Commerce Meeting Room,Gamson Centre
+24,H1,Hornsby Hundred Building
+24,H2,Hornsby Hundred Building
+24,H4,Hornsby Hundred Building
+24,H5,Hornsby Hundred Building
+286,H6,Hornsby Hundred Building
+286,H7,Hornsby Hundred Building
+287,H8,Hornsby Hundred Building
+287,H9,Hornsby Hundred Building
+287,H10,Hornsby Hundred Building
+287,H12,Hornsby Hundred Building
+287,H14,Hornsby Hundred Building
+25,Housemasters Office,Hornsby Hundred Building
+161,Rhodes Theatre,Kefford Building
+253,BCMA Theatre,Kefford Building
+350,Kurrajong Cafe,Kefford Building
+274,Christian Studies Office,Kefford Building
+271,K101,Kefford Building
+271,K102,Kefford Building
+271,K103,Kefford Building
+271,K104,Kefford Building
+271,K105,Kefford Building
+271,K122,Kefford Building
+271,K123,Kefford Building
+271,K124,Kefford Building
+271,K151,Kefford Building
+271,K201,Kefford Building
+271,K202,Kefford Building
+271,K203,Kefford Building
+274,K204 (Crusaders),Kefford Building
+271,K205 (Learning Support),Kefford Building
+271,K206,Kefford Building
+271,K207,Kefford Building
+271,K208,Kefford Building
+271,K208,Kefford Building
+271,K209,Kefford Building
+271,K210,Kefford Building
+271,K301,Kefford Building
+271,K302,Kefford Building
+271,K303,Kefford Building
+271,K304,Kefford Building
+271,K305,Kefford Building
+271,K306,Kefford Building
+271,K307,Kefford Building
+271,K308,Kefford Building
+271,K309,Kefford Building
+271,K310,Kefford Building
+271,K401,Kefford Building
+271,K402,Kefford Building
+271,K403,Kefford Building
+271,K404,Kefford Building
+271,K405,Kefford Building
+271,K406,Kefford Building
+271,K407,Kefford Building
+271,K408,Kefford Building
+271,K409,Kefford Building
+271,K410,Kefford Building
+271,K411,Kefford Building
+271,K412,Kefford Building
+271,K413,Kefford Building
+266,Kefford Learning Support,Kefford Building
+94,Kefford Building,Kefford Building
+40,Languages,Languages Block
+307,Languages Office,Languages Block
+307,L1,Languages Block
+307,L2,Languages Block
+307,L3,Languages Block
+307,L4,Languages Block
+307,L5,Languages Block
+307,L6,Languages Block
+40,Q1,Languages Block
+41,Q2,Languages Block
+36,Q3,Languages Block
+193,Q4,Languages Block
+132,Leslie Hall,Leslie Hall
+213,MS Tuck Shop,Leslie Hall
+225,Music Centre,Music Centre
+225,M1,Music Centre
+225,M2,Music Centre
+225,M3,Music Centre
+225,M4,Music Centre
+225,M5 (Recording Studio),Music Centre
+225,M6 (Rock Studio),Music Centre
+225,M7,Music Centre
+225,M8 (Orchestra Rehearsal),Music Centre
+225,M9,Music Centre
+225,M10 Recital Hall,Music Centre
+225,M21 (Recording Studio),Music Centre
+225,M26,Music Centre
+225,M32,Music Centre
+225,M33,Music Centre
+225,M34,Music Centre
+225,M35,Music Centre
+225,M36,Music Centre
+225,M41,Music Centre
+225,M42,Music Centre
+225,M44,Music Centre
+225,M45,Music Centre
+225,M47,Music Centre
+225,M48,Music Centre
+225,Music Staff Room,Music Centre
+152,Fellows Theatre 2.01,Science Block
+298,S1 Laboratory 2.03,Science Block
+296,S2 Laboratory 2.05,Science Block
+296,S3 Laboratory 2.11,Science Block
+296,S4 Laboratory 2.15,Science Block
+296,S5 Laboratory 3.02,Science Block
+296,S6 Laboratory 3.04,Science Block
+296,S7 Laboratory 3.12,Science Block
+296,S8 Laboratory 3.17,Science Block
+296,S9 Laboratory,Science Block
+296,S10 Laboratory 3.07,Science Block
+190,S11,Science Block
+327,S12,Science Block
+327,S13,Science Block
+16,S14,Science Block
+16,S15,Science Block
+283,W1 (iStem NW),West Wing
+45,W2 (iStem SW),West Wing
+27,W3 (iStem SE),West Wing
+317,W4 (iStem NE),West Wing
+325,X1,X Block
+324,X2,X Block
+323,X3,X Block
+322,X4,X Block
+321,X5,X Block
+320,X6,X Block
+318,X7,X Block
+281,X8,X Block
+184,X9,X Block
+185,X10,X Block
+186,X11,X Block
+187,X12,X Block
+189,X13,X Block
+326,X14,X Block
+185,Maths Alpha Office,X Block
+187,Maths Beta Office,X Block
+281,Maths Centre Resource Room,X Block
+281,Maths Gamma Office,X Block
+65,IT Centre,IT Centre
+220,IT9,IT Centre
+209,IT10,IT Centre
+208,IT11,IT Centre
+206,IT12,IT Centre
+207,IT13 - Computing Studies Editing Suite,IT Centre
+221,IT14,IT Centre
+220,Computing Studies Office,IT Centre
+220,Director of ICT & eLearning Office,IT Centre
+118,Aquatic Centre,Aquatic Centre
+280,Gym,Aquatic Centre
+116,Bowman Field,Bowman
+66,General Duties Office 2,Bowman
+191,Boyce Hall,Boyce Hall
+75,Careers Office,Careers & Councelling
+75,Counsellors Office,Careers & Councelling
+303,Council Room,Carter House
+302,Plume House,Plume House
+195,Clinic,Health Centre
+202,Phipps Field,Phipps & Taylor
+218,Common Room,Other
+115,Grandstand,Other
+107,Soundstage,Other
+59,Senior School Courtyard,Other

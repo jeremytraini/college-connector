@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Text
+comment1.params=text\ grey\ size
+comment1.target=greenfoot.GreenfootImage\ drawText(java.lang.String,\ int,\ int)
+numComments=2

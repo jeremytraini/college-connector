@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RoomInfo
+comment1.params=nodeID\ nodeName\ departmentName
+comment1.target=RoomInfo(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNodeID()
+comment3.params=
+comment3.target=java.lang.String\ getNodeName()
+comment4.params=
+comment4.target=java.lang.String\ getDepartmentName()
+numComments=5

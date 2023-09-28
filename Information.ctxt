@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Information
+comment1.params=inMenu\ width\ height
+comment1.target=Information(boolean,\ int,\ int)
+comment2.params=width\ height\ dest\ walkTime\ node
+comment2.target=Information(int,\ int,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=Information()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ updateTime()
+numComments=6
